@@ -1,0 +1,116 @@
+#h1{
+
+    /* ye box ke liye hain uska color aur border aur style ke liye hain */
+    height: 500px;
+    width: 1000px;
+    border-width: 3px; 
+    border-style: solid;
+    border-color: black;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 380px;
+   
+
+}
+
+
+#email{
+
+    font-weight: bolder;
+
+/* email ka jo likne wala box hain uske liye */
+
+    height: 30px;
+    width: 350px;
+    font-size: 20px;
+    
+}
+
+#password{
+
+    font-weight: 600;
+
+/* password ka jo likne wala box hain uske liye */
+
+    
+    font-size: 20px;
+    height: 30px;
+    width: 350px;
+    
+}
+
+#confirm{
+
+    font-weight: 600px;
+
+    /* confirm password ka jo likne wala box hain uske liye */
+
+    font-size: 20px;
+    height: 30px;
+    width: 350px;
+}
+
+body{
+
+    background-color: wheat;
+    margin: 20px 30px 40px 50px;
+}
+
+
+#confirm{
+
+    font-weight: 900;
+}
+
+h1{
+
+    text-decoration: underline;
+}
+
+#rr{
+
+    /* ye line text ka size badhane ke liye hain */
+
+    font-size: 30px;
+    text-align: left;
+   
+}
+
+#pp{
+
+    /* ye line text ka size badhane ke liye hain */
+
+    font-size: 30px;
+    
+    line-height: 100px;
+}
+
+#cc{
+
+
+    /* ye line text ka size badhane ke liye hain */
+
+    font-size: 30px;
+        
+   
+ 
+    
+}
+
+
+a{
+
+   /* ye line forget ke liye hain */
+   
+    text-decoration: none;
+    font-size: 30px;
+    text-align:left;
+}
+
+#sub{
+    
+    font-size: 20px;
+}
+
+
